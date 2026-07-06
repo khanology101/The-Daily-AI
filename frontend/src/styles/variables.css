@@ -1,0 +1,20 @@
+:root{
+
+--primary:#C1121F;
+--secondary:#F8F3E8;
+--gold:#C8A646;
+
+--world:#2D7FF9;
+--sports:#2ECC71;
+--business:#F39C12;
+--science:#8E44AD;
+
+--text:#1A1A1A;
+--white:#FFFFFF;
+
+--radius:16px;
+
+--shadow:
+0 20px 60px rgba(0,0,0,.18);
+
+}
